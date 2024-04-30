@@ -1,3 +1,5 @@
+#### DATA USED FOR ALL THE MODELS ARE R_Wine_Quality.csv
+
 ###  Code List
 ## PHASE 1 MODEL
 # Choose EITHER of the 3 model below depending on your objectives
